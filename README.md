@@ -112,30 +112,33 @@ Abaixo estão as seções que você pode acessar diretamente, experimente!
 
 12. [📋 Licença](#-licença)
 
+# Apresentação 
 
-# 📜 Descrição
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15746CFF&height=120&section=header">
 
-Nesta seção, você encontrará uma visão detalhada da essência e dos objetivos do nosso trabalho. Esta seção serve como um recurso abrangente para entender o propósito, a funcionalidade e o impacto do projeto "Zuyd Connections". Vamos explorar todos os detalhes que tornam o nosso projeto único e significativo.
+!Typing SVG
 
-### 🔍 **Objetivo da Plataforma:** 
-Como participante do CESIM Business Game, você tem uma missão crucial: colaborar efetivamente com os outros membros do jogo, apesar das diferenças culturais e pessoais. Explore as diversas funcionalidades do Zuyd Connections, como os perfis dos membros dos grupos, descobrindo mais sobre cada outros usuários e coletando insights. A plataforma foi projetada para ser intuitiva e fácil de usar, proporcionando uma experiência suave e sem complicações.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15746CFF&height=120&section=footer">
 
-### 🌟 **Colaboração e Compreensão:** 
-A plataforma Zuyd Connections é projetada para ajudar os jogadores do CESIM Business Game a entender melhor as diferenças culturais e pessoais de seus colegas de equipe. Ao promover uma maior compreensão e apreciação das singularidades de cada membro, acreditamos que a colaboração, a comunicação e o desempenho do grupo serão significativamente melhorados.
+Bem-vindo ao Zuyd Connections, uma iniciativa concebida em resposta a uma necessidade real da Zuyd University, que contou com a participação de alunos talentosos da turma 2024.1 do Inteli - Instituto de Tecnologia e Liderança. Este projeto foi desenvolvido com o intuito de auxiliar os jogadores do CESIM Business Game, proporcionando-lhes uma plataforma de apoio para melhorar a colaboração e a compreensão das diferenças culturais e pessoais entre os membros do jogo.
+<br>
+### **🔍 O problema:** 
+A colaboração efetiva entre os jogadores do CESIM Business Game pode ser desafiadora, especialmente devido às diferenças culturais e pessoais entre os membros do jogo.
+<br>
+<br>
+### **🎯 O objetivo:** 
+Oferecer aos jogadores uma oportunidade única de melhorar a colaboração e a compreensão das diferenças culturais e pessoais entre os membros do jogo, através de uma plataforma de apoio com várias funcionalidades.
+<br>
+<br>
+### **🧩 O público-alvo:**   
+Jogadores do CESIM Business Game, bem como qualquer pessoa interessada em melhorar a colaboração e a compreensão das diferenças culturais e pessoais em um ambiente de equipe.
+<br>
+<br>
+O objetivo principal do Zuyd Connections é oferecer aos jogadores uma oportunidade única de melhorar a colaboração e a compreensão das diferenças culturais e pessoais entre os membros do jogo, através de uma plataforma de apoio com várias funcionalidades. Além disso, a plataforma busca familiarizar os jogadores com os valores e compromissos fundamentais da Zuyd University, como colaboração, inclusão e inovação.
 
-### 🌱 **Compromisso com a Inclusão:** 
-O Zuyd Connections é mais do que uma ferramenta de apoio ao jogo. É um compromisso com a inclusão e a compreensão cultural. Através da nossa plataforma, estamos empenhados em promover uma experiência inclusiva e acolhedora para todos os jogadores.
+Desenvolvido como parte integrante do currículo do Inteli, este projeto é mais do que apenas uma plataforma. É uma prova do potencial dos alunos em aplicar suas habilidades em um contexto real e enfrentar desafios complexos. Ao mesmo tempo, serve como uma ferramenta valiosa para preparar os futuros jogadores do CESIM Business Game, proporcionando-lhes uma visão autêntica da cultura e dos valores da Zuyd University.
 
-### 👩‍💼 **Plataforma de Apoio:** 
-Desenvolvido pelo grupo Phoenix Learning Solutions, o Zuyd Connections é uma ferramenta educativa e informativa para os jogadores do CESIM Business Game, preparando-os para uma jornada de sucesso no jogo.
-
-### 🌐 **Promovendo a Diversidade Cultural:** 
-A plataforma Zuyd Connections é projetada para promover a diversidade cultural. Ao permitir que os jogadores aprendam mais sobre as diferentes culturas de seus colegas de equipe, esperamos reduzir conflitos e mal-entendidos e promover um ambiente de trabalho mais harmonioso.
-
-### 🎮 **Use agora:**
-Para acessar a plataforma diretamente do seu navegador entre no seguinte link: Zuyd Connections
-
-Com uma abordagem inovadora, o Zuyd Connections proporciona uma experiência de colaboração eficaz e memorável, enquanto reforça os valores e a identidade da Zuyd University. Venha fazer parte desta experiência única e prepare-se para uma colaboração mais efetiva no CESIM Business Game!
+Portanto, convidamos você a explorar o Zuyd Connections, onde colaboração, aprendizado e diversão se encontram. Prepare-se para uma jornada emocionante enquanto descobre o que significa ser parte de uma das maiores universidades do mundo e como você pode contribuir para um futuro melhor.
 
 # Phoenix Learning Solutions (P.L.S)
 
@@ -228,3 +231,27 @@ Nossa abordagem de ensino quebra a lógica do ensino tradicional, onde o profess
 Os professores instrutores desempenham um papel vital no processo de aprendizado e desenvolvimento dos alunos. São especialistas em suas respectivas áreas de conhecimento e têm a responsabilidade de facilitar a compreensão e aplicação dos conteúdos técnicos necessários para conduzir os projetos. Na dinâmica de colaboração entre professores e alunos, os instrutores fornecem orientação especializada e apoio para que os alunos possam construir soluções tecnológicas para problemas reais do mercado.
 
 Os docentes do Inteli são essenciais para a jornada de aprendizado dos alunos, proporcionando orientação, conhecimento e inspiração para alcançarem seus objetivos educacionais e profissionais. Ao reconhecermos a diversidade de talentos e experiências dos docentes, valorizamos sua contribuição fundamental para o sucesso dos alunos e para o fortalecimento da comunidade acadêmica. Agradecemos sinceramente a cada um dos nossos docentes por seu compromisso e dedicação ao ensino, que moldam o futuro dos líderes e inovadores do amanhã.
+
+# 📜 Descrição
+
+Nesta seção, você encontrará uma visão detalhada da essência e dos objetivos do nosso trabalho. Esta seção serve como um recurso abrangente para entender o propósito, a funcionalidade e o impacto do projeto "Zuyd Connections". Vamos explorar todos os detalhes que tornam o nosso projeto único e significativo.
+
+### 🔍 **Objetivo da Plataforma:** 
+Como participante do CESIM Business Game, você tem uma missão crucial: colaborar efetivamente com os outros membros do jogo, apesar das diferenças culturais e pessoais. Explore as diversas funcionalidades do Zuyd Connections, como os perfis dos membros dos grupos, descobrindo mais sobre cada outros usuários e coletando insights. A plataforma foi projetada para ser intuitiva e fácil de usar, proporcionando uma experiência suave e sem complicações.
+
+### 🌟 **Colaboração e Compreensão:** 
+A plataforma Zuyd Connections é projetada para ajudar os jogadores do CESIM Business Game a entender melhor as diferenças culturais e pessoais de seus colegas de equipe. Ao promover uma maior compreensão e apreciação das singularidades de cada membro, acreditamos que a colaboração, a comunicação e o desempenho do grupo serão significativamente melhorados.
+
+### 🌱 **Compromisso com a Inclusão:** 
+O Zuyd Connections é mais do que uma ferramenta de apoio ao jogo. É um compromisso com a inclusão e a compreensão cultural. Através da nossa plataforma, estamos empenhados em promover uma experiência inclusiva e acolhedora para todos os jogadores.
+
+### 👩‍💼 **Plataforma de Apoio:** 
+Desenvolvido pelo grupo Phoenix Learning Solutions, o Zuyd Connections é uma ferramenta educativa e informativa para os jogadores do CESIM Business Game, preparando-os para uma jornada de sucesso no jogo.
+
+### 🌐 **Promovendo a Diversidade Cultural:** 
+A plataforma Zuyd Connections é projetada para promover a diversidade cultural. Ao permitir que os jogadores aprendam mais sobre as diferentes culturas de seus colegas de equipe, esperamos reduzir conflitos e mal-entendidos e promover um ambiente de trabalho mais harmonioso.
+
+### 🎮 **Use agora:**
+Para acessar a plataforma diretamente do seu navegador entre no seguinte link: Zuyd Connections
+
+Com uma abordagem inovadora, o Zuyd Connections proporciona uma experiência de colaboração eficaz e memorável, enquanto reforça os valores e a identidade da Zuyd University. Venha fazer parte desta experiência única e prepare-se para uma colaboração mais efetiva no CESIM Business Game!
