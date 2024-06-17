@@ -139,6 +139,10 @@ Com uma abordagem inovadora, o Zuyd Connections proporciona uma experiência de 
 
 # Phoenix Learning Solutions (P.L.S)
 
+Somos a Phoenix Learning Solutions (P.L.S), um grupo diversificado de sete pessoas de várias partes do Brasil. Cada membro do nosso grupo traz suas experiências únicas, habilidades e talentos para a mesa. Formamos nossa equipe seguindo os critérios estabelecidos por nossa orientadora no início do módulo. Ao longo de nossa jornada, enfrentamos vários desafios que nos ajudaram a aprender a colaborar efetivamente. Estamos extremamente orgulhosos de apresentar o projeto "Zuyd Connections", um testemunho de nosso esforço, dedicação e aprendizado.
+
+Agradecemos a oportunidade de trabalhar juntos como equipe e estamos orgulhosos do resultado final que alcançamos. Este projeto não só nos permitiu aplicar nossos conhecimentos e habilidades, mas também nos ensinou a importância da colaboração, comunicação eficaz e perseverança diante dos desafios. Estamos ansiosos para aplicar essas lições em projetos futuros e continuar crescendo juntos como equipe.
+
 # 👨‍🎓 Integrantes
 
  Para conhecer mais sobre cada integrante, experimente clicar em seus nomes ou fotos e visite seus perfis no LinkedIn.
