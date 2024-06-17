@@ -136,3 +136,91 @@ A plataforma Zuyd Connections é projetada para promover a diversidade cultural.
 Para acessar a plataforma diretamente do seu navegador entre no seguinte link: Zuyd Connections
 
 Com uma abordagem inovadora, o Zuyd Connections proporciona uma experiência de colaboração eficaz e memorável, enquanto reforça os valores e a identidade da Zuyd University. Venha fazer parte desta experiência única e prepare-se para uma colaboração mais efetiva no CESIM Business Game!
+
+# Phoenix Learning Solutions (P.L.S)
+
+# 👨‍🎓 Integrantes
+
+ Para conhecer mais sobre cada integrante, experimente clicar em seus nomes ou fotos e visite seus perfis no LinkedIn.
+ 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/andre-dleizer-cintra-do-prado-7203702b4/"><img style="border-radius: 50%;" src="assetsREADME/André_Prado.JPG" width="200px;" alt="Foto de André Prado"/><br>André Prado</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/andre-lobo-dev/"><img style="border-radius: 50%;" src="assetsREADME/André_Eduardo_Lobo_de_Paula.jpg" width="200px;" alt="Foto de André Lobo"/><br>André Lobo</a></td>
+       <td align="center"><a href="https://www.linkedin.com/in/gabriel-nascimento-563382243"><img style="border-radius: 50%;" src="assetsREADME/Gabriel_Santos_Nascimento.jpg" width="200px;" alt="Foto de Gabriel Nascimento"/><br>Gabriel Nascimento</a></td>
+     <td align="center"><a href="https://www.linkedin.com/in/laura-rodrigues-277927217/"><img style="border-radius: 50%;" src="assetsREADME/Laura_de_Araujo_Rodrigues.jpg" width="200px;" alt="Foto de Laura Rodrigues"/><br>Laura Rodrigues</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/lucca-henrique-pereira-119254258/"><img style="border-radius: 50%;" src="assetsREADME/Lucca_Henrique_Pereira.jpg" width="200px;" alt="Foto de Lucca Pereira"/><br>Lucca Pereira</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/milena-castro-39a2152b3/"><img style="border-radius: 50%;" src="assetsREADME/Milena_Aparecida_Vieira_Castro.jpg" width="200px;" alt="Foto de Milena Castro"/><br>Milena Castro</a></td>
+      <td align="center"><a href="http://www.linkedin.com/in/ryan-gartlan-82331b2b3"><img style="border-radius: 50%;" src="assetsREADME/Ryan_Botelho_Gartlan.jpg" width="200px;" alt="Foto de Ryan Gartlan"/><br>Ryan Gartlan</a></td>
+    </tr>
+  </table>
+</div>
+
+Os membros da Phoenix Learning Solutions (P.L.S) formam uma equipe diversificada de estudantes, cada um trazendo suas próprias experiências, habilidades e talentos únicos. Apesar de virem de diferentes cursos, todos os membros se uniram para desenvolver o projeto "Zuyd Connections", seguindo o currículo comum do primeiro ano do Inteli.
+
+A colaboração é o alicerce do nosso grupo. Todos os membros, sem exceção, contribuem para todas as áreas do projeto. Seja na programação, design, negócios ou outras áreas, cada um de nós desempenhou papéis vitais em todas as etapas do desenvolvimento do projeto.
+
+Para garantir uma abordagem ágil e eficiente, adotamos a metodologia ágil em nosso processo de desenvolvimento. Todos os membros tiveram a oportunidade de liderar o grupo como Scrum Masters, garantindo uma comunicação eficaz e uma execução suave do projeto. Realizamos sprints de 15 dias cada, onde cada sprint foi marcada por reuniões de validação com nosso parceiro, a Zuyd University. Nessas reuniões, apresentamos e validamos o progresso do projeto, garantindo que nossas entregas estivessem alinhadas com as expectativas e necessidades da universidade.
+
+Este compromisso com a colaboração, eficiência e comunicação eficaz foi fundamental para o sucesso do nosso projeto. Estamos orgulhosos do trabalho em equipe e do resultado final que alcançamos com o "Zuyd Connections", e estamos ansiosos para aplicar essas lições em projetos futuros.
+
+# 👩‍🏫 Docentes
+
+Na jornada acadêmica do Inteli, os docentes desempenham um papel fundamental no apoio aos alunos, oferecendo orientação especializada e apoio em diversas áreas do conhecimento. Desde o Coordenador do Curso até os Professores Instrutores, cada membro do corpo docente contribui para enriquecer a experiência educacional dos alunos, promovendo o aprendizado colaborativo e o crescimento profissional. Para conhecer mais sobre cada docente, experimente clicar em seus nomes ou fotos e visite seus perfis no LinkedIn.
+
+## Coordenador do Curso
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/sergio-venancio-a509b342/"><img style="border-radius: 50%;" src="assetsREADME/0006_SERGIO-VENANCIO.png" width="200px;" alt="Foto de Sérgio Venâncio"><br>Sérgio Venâncio</a></td>
+    </tr>
+  </table>
+</div>
+
+O Papel do Coordenador de Núcleo Inicial - 1º ano
+O Coordenador de Núcleo Inicial desempenha um papel fundamental no apoio aos alunos durante seu primeiro ano no Inteli. Sua principal responsabilidade é garantir uma transição suave dos alunos para o ambiente acadêmico, fornecendo orientação e assistência em todas as áreas do aprendizado.
+
+O Coordenador de Núcleo Inicial desempenha um papel vital no sucesso acadêmico e pessoal dos alunos. Sua orientação e assistência contribuem significativamente para a adaptação dos estudantes ao ambiente universitário e para o alcance de seus objetivos educacionais e profissionais. Com sua dedicação e compromisso, o coordenador do curso fortalece a comunidade acadêmica e promove o desenvolvimento integral dos alunos.
+
+## Professora Orientadora
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/fabiana-martins-de-oliveira-8993b0b2/"><img style="border-radius: 50%;" src="assetsREADME/0001_FABIANA-MARTINS-DE-OLIVEIRA.png" width="200px;" alt="Fabiana Martins"><br>Fabiana Martins</a></td>
+    </tr>
+  </table>
+</div>
+
+No Inteli, os dois diferentes papéis que os professores assumem são um ponto-chave em nosso modelo acadêmico. O orientador desempenha um papel fundamental ao acompanhar todo o projeto, desde a sua concepção até a entrega final. Responsável por orientar os alunos em todas as etapas do desenvolvimento, o orientador coordena os rituais de planejamento e apresentação para o parceiro de mercado. Além disso, atua como um facilitador para garantir que os objetivos do projeto sejam alcançados de maneira eficiente e satisfatória.
+
+## Professores Instrutores
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/ccalminana/"><img style="border-radius: 50%;" src="assetsREADME/Cesar-Carvini-Alminana.png" width="200px;" alt=""/><br>Cesar Almiñana</a><br>Negócios</td>
+      <td align="center"><a href="https://www.linkedin.com/in/cristiano-benites-687647a8/"><img style="border-radius: 50%;" src="assetsREADME/Cristiano-da-Silva-Benites.png" width="200px;" alt=""/><br>Cristiano Benites</a><br>Programação</td>
+      <td align="center"><a href="https://www.linkedin.com/in/fillipe-resina-b2211a22/"><img style="border-radius: 50%;" src="assetsREADME/0000_FILLIPE-RESINA.png" width="200px;" alt=""/><br>Filipe Resina</a><br>Programação</td>
+    </tr>
+  </table>
+</div>
+
+<br> <!-- Adiciona um espaço vertical entre as tabelas -->
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/francisco-escobar/"><img style="border-radius: 50%;" src="assetsREADME/0023_FRANCISCO-ESCOBAR.png" width="200px;" alt=""/><br>Francisco Escobar</a><br>Design e UX</td>
+      <td align="center"><a href="https://www.linkedin.com/in/fernando-pizzo-208b526a/"><img style="border-radius: 50%;" src="assetsREADME/Fernando-pizzo-ribeiro-copy-2.png" width="200px;" alt=""/><br>Fernando Pizzo</a><br>Matemática e física</td>
+      <td align="center"><a href="https://www.linkedin.com/in/filipe-gon%C3%A7alves-08a55015b/"><img style="border-radius: 50%;" src="assetsREADME/filipe-goncalves.png" width="200px;" alt=""/><br>Filipe Gonçalves</a><br>Liderança</td>
+    </tr>
+  </table>
+</div>
+<br>
+Nossa abordagem de ensino quebra a lógica do ensino tradicional, onde o professor é o único detentor do conhecimento. No Inteli, a interação próxima entre professores e alunos permite uma troca contínua de ideias e experiências, enriquecendo assim o processo de aprendizado e fortalecendo as habilidades dos alunos para enfrentar desafios complexos no ambiente corporativo.
+
+Os professores instrutores desempenham um papel vital no processo de aprendizado e desenvolvimento dos alunos. São especialistas em suas respectivas áreas de conhecimento e têm a responsabilidade de facilitar a compreensão e aplicação dos conteúdos técnicos necessários para conduzir os projetos. Na dinâmica de colaboração entre professores e alunos, os instrutores fornecem orientação especializada e apoio para que os alunos possam construir soluções tecnológicas para problemas reais do mercado.
+
+Os docentes do Inteli são essenciais para a jornada de aprendizado dos alunos, proporcionando orientação, conhecimento e inspiração para alcançarem seus objetivos educacionais e profissionais. Ao reconhecermos a diversidade de talentos e experiências dos docentes, valorizamos sua contribuição fundamental para o sucesso dos alunos e para o fortalecimento da comunidade acadêmica. Agradecemos sinceramente a cada um dos nossos docentes por seu compromisso e dedicação ao ensino, que moldam o futuro dos líderes e inovadores do amanhã.
