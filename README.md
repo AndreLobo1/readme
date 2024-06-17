@@ -327,3 +327,47 @@ Não hesite em mergulhar fundo e explorar o mundo fascinante das ferramentas que
 | | |
 | <span id="outras_tecnologias_tecnicas"></span> **Outras Tecnologias e Técnicas** | |
 | <a href="https://github.com/features/copilot" target="_blank"><img src="assets/assetsREADME/copilot.webp" width="125" height="125"> | <a href="https://github.com/features/copilot" target="_blank">**Google Sheets**</a> Planilha eletrônica baseada na nuvem. Utilizada durante o desenvolvimento do projeto para os testes com usuários e coleta de feedback, permitindo colaboração em tempo real e análise de dados. |
+
+Nesta seção, mergulhamos em uma diversidade de técnicas e tecnologias essenciais para o sucesso do nosso projeto. De linguagens de programação a ferramentas de gestão e ambientes de desenvolvimento, cada componente teve um papel crucial na engenharia de uma experiência distinta e cativante.
+
+A adoção desses recursos não só facilitou a construção do nosso projeto, mas também refletiu nossa dedicação à inovação, produtividade e excelência. Com a incorporação de instrumentos sofisticados e práticas contemporâneas, conseguimos superar obstáculos, atingir metas e apresentar um produto final notável.
+
+O processo de aprendizado contínuo e a investigação de novidades tecnológicas ao longo do desenvolvimento evidenciam nosso comprometimento com o avanço profissional e a excelência. Cada ferramenta empregada simboliza mais que um recurso; é uma chance de ampliar nossa expertise e competências.
+
+Prosseguindo para futuros empreendimentos e desafios, levamos conosco os conhecimentos e experiências adquiridos através do uso dessas tecnologias. Encaramos o porvir com otimismo e confiança, equipados com as habilidades e o saber necessários para florescer em um cenário progressivamente dinâmico e competitivo.
+
+Expressamos nossa gratidão às inúmeras tecnologias e métodos que nos acompanharam nessa trajetória e aguardamos com expectativa a oportunidade de continuar a explorar, aprender e inovar com eles no que está por vir!
+
+# 📁 Estrutura de pastas
+
+A organização eficaz de um projeto de software é fundamental para o seu desenvolvimento e manutenção. A estrutura de pastas que adotamos serve como a espinha dorsal do nosso sistema, garantindo que cada componente, recurso e ferramenta esteja categorizado logicamente e seja facilmente acessível. Esta introdução delineará a hierarquia e o propósito de cada diretório, proporcionando uma visão clara do layout do projeto. Ao seguir um padrão consistente, facilitamos a colaboração entre desenvolvedores e a integração contínua de novas funcionalidades. Vamos explorar juntos a arquitetura pensada para promover uma experiência de desenvolvimento ágil e ordenada.
+
+```bash
+├── api                  # Controladores, ajudantes, modelos e políticas
+│   ├── controllers      # Lógica de controle para rotas
+│   ├── helpers          # Funções auxiliares para lógica de negócios
+│   ├── models           # Modelos de dados do projeto
+│   └── policies         # Políticas de segurança e acesso
+├── assets               # Imagens e estilos usados no projeto
+│   ├── images           # Arquivos de imagem como ícones e fotos
+│   └── styles           # Folhas de estilo CSS
+├── config               # Configurações do ambiente e localizações
+│   ├── env              # Configurações específicas do ambiente
+│   └── locates          # Arquivos de localização para internacionalização
+├── documentos           # Documentos relacionados ao projeto
+│   └── assets           # Recursos usados na documentação
+├── tasks                # Tarefas automatizadas e configuração
+│   ├── config           # Configurações das tarefas
+│   └── register         # Registro das tarefas para execução
+├── test                 # Testes unitários e utilitários
+│   ├── unit             # Testes unitários para componentes individuais
+│   └── util             # Testes utilitários e scripts de teste auxiliares
+└── views                # Layouts e páginas da aplicação web
+    ├── layouts          # Templates de layout comuns a várias páginas
+    └── pages            # Templates específicos de cada página da aplicação web
+```
+
+
+
+
+
