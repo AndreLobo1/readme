@@ -152,7 +152,7 @@ Agradecemos a oportunidade de trabalhar juntos como equipe e estamos orgulhosos 
   <table>
     <tr>
       <td align="center"><a href="https://www.linkedin.com/in/david-deodato-41b9b72b7/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/David_Deodato_Alvarenga_Nascimento.jpg" width="200px;" height="200px;" alt="Foto de David Deodato"/><br>David Deodato</a></td>
-      <td align="center"><a href="#"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/André_Eduardo_Lobo.jpg" width="200px;" height="200px;" alt="Foto de André Lobo"/><br>André Lobo</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/andre-lobo-dev/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/André_Eduardo_Lobo.jpg" width="200px;" height="200px;" alt="Foto de André Lobo"/><br>André Lobo</a></td>
        <td align="center"><a href="https://www.linkedin.com/in/igor-sguissardi/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/Igor_Paço_Sguissardi_de_Oliveira.jpg" width="200px;" height="200px;" alt="Foto de Igor Paço"/><br>Igor Paço</a></td>
      <td align="center"><a href="https://www.linkedin.com/in/jo%C3%A3o-victor-wandermurem-de-oliveira/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/João_victor_Wandermurem_de_Oliveira.jpg" width="200px;" height="200px;" alt="Foto de João Victor"/><br>João Victor</a></td>
       <td align="center"><a href="https://www.linkedin.com/in/pedro-haouli/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/Pedro_El_Haouli_Faria.jpg" width="200px;" height="200px;" alt="Foto de Pedro Haouli"/><br>Pedro Haouli</a></td>
@@ -207,7 +207,7 @@ No Inteli, os dois diferentes papéis que os professores assumem são um ponto-c
     <tr>
       <td align="center"><a href="https://www.linkedin.com/in/ccalminana/"><img style="border-radius: 50%;" src="assetsREADME/Cesar-Carvini-Alminana.png" width="200px;" alt=""/><br>Cesar Almiñana</a><br>Negócios</td>
       <td align="center"><a href="https://www.linkedin.com/in/cristiano-benites-687647a8/"><img style="border-radius: 50%;" src="assetsREADME/Cristiano-da-Silva-Benites.png" width="200px;" alt=""/><br>Cristiano Benites</a><br>Programação</td>
-      <td align="center"><a href="https://www.linkedin.com/in/fillipe-resina-b2211a22/"><img style="border-radius: 50%;" src="assetsREADME/0000_FILLIPE-RESINA.png" width="200px;" alt=""/><br>Filipe Resina</a><br>Programação</td>
+      <td align="center"><a href="https://www.linkedin.com/in/fillipe-resina-b2211a22/"><img style="border-radius: 50%;" src="assetsREADME/0000_FILLIPE-RESINA.png" width="200px;" alt=""/><br>Kizzy Terra</a><br>Programação</td>
     </tr>
   </table>
 </div>
@@ -217,9 +217,9 @@ No Inteli, os dois diferentes papéis que os professores assumem são um ponto-c
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/francisco-escobar/"><img style="border-radius: 50%;" src="assetsREADME/0023_FRANCISCO-ESCOBAR.png" width="200px;" alt=""/><br>Francisco Escobar</a><br>Design e UX</td>
-      <td align="center"><a href="https://www.linkedin.com/in/fernando-pizzo-208b526a/"><img style="border-radius: 50%;" src="assetsREADME/Fernando-pizzo-ribeiro-copy-2.png" width="200px;" alt=""/><br>Fernando Pizzo</a><br>Matemática e física</td>
-      <td align="center"><a href="https://www.linkedin.com/in/filipe-gon%C3%A7alves-08a55015b/"><img style="border-radius: 50%;" src="assetsREADME/filipe-goncalves.png" width="200px;" alt=""/><br>Filipe Gonçalves</a><br>Liderança</td>
+      <td align="center"><a href="https://www.linkedin.com/in/francisco-escobar/"><img style="border-radius: 50%;" src="assetsREADME/0023_FRANCISCO-ESCOBAR.png" width="200px;" alt=""/><br>Bruna Mayer Costa</a><br>Design e UX</td>
+      <td align="center"><a href="https://www.linkedin.com/in/henrique-mohallem-paiva-6854b460/"><img style="border-radius: 50%;" src="assetsREADME/Fernando-pizzo-ribeiro-copy-2.png" width="200px;" alt=""/><br>Henrique Mohallem Paiva</a><br>Matemática e física</td>
+      <td align="center"><a href="https://www.linkedin.com/in/michele-bazana-de-souza-69b77763/"><img style="border-radius: 50%;" src="assetsREADME/filipe-goncalves.png" width="200px;" alt=""/><br>Michele Bazana</a><br>Liderança</td>
     </tr>
   </table>
 </div>
@@ -449,6 +449,10 @@ Em conformidade com a metodologia ágil Scrum, nosso projeto é desenvolvido em 
 - (escreva aqui)
 
 A adoção da metodologia Scrum nos permitiu manter um ritmo de desenvolvimento sustentável e responder prontamente às necessidades do projeto. O histórico de lançamentos ilustra como cada sprint contribuiu para a evolução do produto, com foco na entrega de valor e na satisfação do cliente. Continuaremos a seguir os princípios ágeis para promover a excelência e inovação em nosso trabalho.
+
+
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Zuyd Connectios </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Inteli, André Lobo, David Deodato, Ryan Gartlan, Igor Sguissardi, João Wandermurem, Ricardo Planas, Pedro El Haouli</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 
 
