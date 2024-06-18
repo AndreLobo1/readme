@@ -367,6 +367,55 @@ A organização eficaz de um projeto de software é fundamental para o seu desen
     └── pages            # Templates específicos de cada página da aplicação web
 ```
 
+<span id="api"></span>
+**api**: O coração do nosso projeto Sails, onde reside a lógica central. Aqui, os `controllers` gerenciam o fluxo de dados entre os modelos e as visualizações, os `helpers` fornecem funções reutilizáveis para evitar a duplicação de código, os `models` definem a estrutura dos dados e as interações com o banco de dados, e as `policies` garantem que as solicitações cumpram com as regras de segurança e acesso estabelecidas.
+
+<span id="assets"></span>
+**assets**: Esta pasta é o repositório para todos os elementos visuais e estilísticos do projeto. As subpastas `images` e `styles` armazenam respectivamente imagens (como logos e ícones) e folhas de estilo CSS que definem a aparência da aplicação web.
+
+<span id="config"></span>
+**config**: Contém arquivos de configuração que orientam o comportamento do projeto em diferentes ambientes através da pasta `env`, enquanto `locates` contém arquivos para internacionalização, permitindo que o projeto seja facilmente adaptado para diferentes idiomas.
+
+<span id="documentos"></span>
+**documentos**: Alberga a documentação essencial do projeto, incluindo especificações técnicas e qualquer outro material de referência necessário para entender e trabalhar no projeto.
+
+<span id="tasks"></span>
+**tasks**: Inclui scripts automatizados que ajudam na construção e desenvolvimento do projeto. A subpasta `config` contém as definições dessas tarefas, enquanto `register` lista as tarefas disponíveis para execução.
+
+<span id="test"></span>
+**test**: É dedicada aos testes automatizados que garantem a qualidade e o funcionamento correto do código. As subpastas `unit` e `util` são usadas para testes unitários que verificam componentes individuais e utilitários para scripts auxiliares de teste, respectivamente.
+
+<span id="views"></span>
+**views**: Contém os templates usados para renderizar as páginas da aplicação web. A pasta `layouts` possui templates base que são compartilhados entre várias páginas, enquanto `pages` contém templates específicos para cada página da aplicação.
+
+A estrutura de pastas é uma parte vital do nosso projeto Sails, fornecendo uma base organizada que facilita o desenvolvimento ágil e eficiente. Cada diretório foi meticulosamente planejado para garantir que os desenvolvedores possam encontrar facilmente o que precisam e contribuir efetivamente para o projeto. Esta organização não só melhora a colaboração entre a equipe mas também otimiza o fluxo de trabalho, permitindo-nos focar na criação de um produto robusto e confiável.
+
+# 💻 Configuração para Desenvolvimento e Execução
+
+Iniciar um projeto de desenvolvimento requer uma configuração cuidadosa do ambiente para garantir que todas as ferramentas e dependências estejam corretamente instaladas e configuradas. Este guia foi criado para facilitar o processo de configuração, permitindo que você se concentre no que realmente importa: desenvolver um código de qualidade. Siga os passos detalhados abaixo para preparar seu ambiente de desenvolvimento e executar o projeto sem contratempos.
+
+## Pré-requisitos
+- **IDE**: Sugerimos o [Visual Studio Code](https://code.visualstudio.com/) por sua compatibilidade e suporte extensivo.
+  - Baixe e instale o Visual Studio Code conforme as instruções no site oficial.
+- **Node.js**: É necessário ter o Node.js versão 16.15.1 LTS.
+  - Baixe e instale o Node.js [aqui](https://nodejs.org/pt-br/).
+- **Sails.js**: Usamos o framework Sails.js para o backend do projeto.
+  - Após instalar o Node.js, instale o Sails globalmente com o comando `npm install sails -g`.
+
+## Instalação Básica
+1. Clone o repositório do projeto usando `git clone [URL_DO_REPOSITORIO]`.
+2. Abra um terminal como administrador e navegue até a pasta `src/backend` no diretório raiz do repositório clonado.
+3. Execute `npm install` para instalar todas as dependências necessárias listadas no arquivo `package.json`.
+
+## Execução
+- Para rodar o projeto, utilize o comando `sails lift` no terminal.
+- A aplicação estará acessível através do endereço [http://localhost:1337/](http://localhost:1337/), a menos que configurado de outra forma.
+
+Agora você pode continuar o desenvolvimento, alterando ou adicionando funcionalidades conforme necessário, desde que siga as regras da licença do projeto.
+
+Com estas etapas concluídas, você terá um ambiente de desenvolvimento totalmente configurado e pronto para contribuir com o projeto. Lembre-se de seguir as diretrizes da licença ao fazer alterações e aproveite para explorar as possibilidades que o Sails.js oferece para desenvolvimento web moderno e eficiente.
+
+
 
 
 
