@@ -114,7 +114,7 @@ Abaixo estão as seções que você pode acessar diretamente, experimente!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D1000FF&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=6D1000&background=FFFFFF00&center=true&vCenter=true&random=false&width=1000&lines=Hello+world%2C+somos+a+P.L.S.;Apresentamos+nosso+projeto%3A;Bem-vindo+ao+Zuyd+Connection.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=6D1000&background=FFFFFF00&center=true&vCenter=true&random=false&width=1000&lines=Hello+world%2C+somos+a+P.L.S.;Apresentamos+nosso+projeto%3A;Bem-vindo+ao+Zuyd+Connections.)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D1000FF&height=120&section=footer">
 
@@ -452,7 +452,7 @@ A adoção da metodologia Scrum nos permitiu manter um ritmo de desenvolvimento 
 
 
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Zuyd Connectios </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Inteli, André Lobo, David Deodato, Ryan Gartlan, Igor Sguissardi, João Wandermurem, Ricardo Planas, Pedro El Haouli</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Zuyd Connections </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Inteli, André Lobo, David Deodato, Ryan Gartlan, Igor Sguissardi, João Wandermurem, Ricardo Planas, Pedro El Haouli</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 
 
