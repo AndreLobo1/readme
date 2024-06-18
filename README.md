@@ -114,8 +114,7 @@ Abaixo estão as seções que você pode acessar diretamente, experimente!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=6d1000&text=Input%20text&fontColor=6d1000&fontSize=68">
 
-!Typing SVG
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Red+Hat+Display&pause=1000&color=6D1000&background=6D100000&random=false&width=435&lines=Hello+world%2C+somos+a+P.L.S.;Apresentamos+nosso+projeto%3A;Bem-vindo+ao+Zuyd+Connections)](https://git.io/typing-svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15746CFF&height=120&section=footer">
 
 Bem-vindo ao Zuyd Connections, uma iniciativa concebida em resposta a uma necessidade real da Zuyd University, que contou com a participação de alunos talentosos da turma 2024.1 do Inteli - Instituto de Tecnologia e Liderança. Este projeto foi desenvolvido com o intuito de auxiliar os jogadores do CESIM Business Game, proporcionando-lhes uma plataforma de apoio para melhorar a colaboração e a compreensão das diferenças culturais e pessoais entre os membros do jogo.
