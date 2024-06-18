@@ -294,7 +294,6 @@ Não hesite em mergulhar fundo e explorar o mundo fascinante das ferramentas que
 | | |
 | <span id="linguagens_marcacao"></span> **Linguagens de Programação** | |
 | <a href="https://www.markdownguide.org/" target="_blank"><img src="assets/assetsREADME/markdown.png" width="125" height="125"> | <a href="https://www.markdownguide.org/" target="_blank">**JavaScript**</a> é uma linguagem de script versátil usada para criar interações dinâmicas em websites. No projeto, foi empregado para desenvolver tanto o frontend quanto o backend, proporcionando uma experiência de usuário interativa e funcionalidades do servidor. |
-| <span id="linguagens_marcacao"></span> **Linguagens de Programação** | |
 | <a href="https://www.markdownguide.org/" target="_blank"><img src="assets/assetsREADME/markdown.png" width="125" height="125"> | <a href="https://www.markdownguide.org/" target="_blank">**SQL**</a> é uma linguagem de consulta para gerenciar bancos de dados relacionais. No projeto, SQL foi utilizado para estruturar, consultar e manipular dados, assegurando a integridade e eficiência no gerenciamento das informações. |
 | | |
 | <span id="linguagens_marcacao"></span> **Banco de Dados e Ferramentas Relacionadas** | |
