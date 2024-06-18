@@ -112,7 +112,7 @@ Abaixo estão as seções que você pode acessar diretamente, experimente!
 
 # Apresentação 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15746CFF&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=6d1000&text=Input%20text&fontColor=6d1000&fontSize=68">
 
 !Typing SVG
 
