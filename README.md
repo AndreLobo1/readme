@@ -4,16 +4,15 @@
 <a href= "https://www.inteli.edu.br/"><img src="assetsREADME/logoInteli.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width=100% height=40%></a>
 </p>
 
-Como estudantes do **Inteli - Instituto de Tecnologia e Liderança**, tivemos a oportunidade de participar de um projeto inovador: o "Zuyd Connections". O Inteli é mais do que uma instituição educacional, é um espaço onde somos constantemente desafiados a aplicar nossas habilidades em situações reais e a enfrentar problemas complexos.
+Como estudantes do [**Inteli - Instituto de Tecnologia e Liderança**](https://www.inteli.edu.br/), tivemos a oportunidade de participar de um projeto inovador: o "Zuyd Connections". O Inteli é mais do que uma instituição educacional, é um espaço onde somos constantemente desafiados a aplicar nossas habilidades em situações reais e a enfrentar problemas complexos.
 
 No Inteli, somos preparados para sermos líderes efetivos no mundo tecnológico. Aprendemos a importância do trabalho em equipe, desenvolvemos nosso pensamento crítico e somos instigados a encontrar soluções para problemas complexos. O projeto "Zuyd Connections" é uma representação viva desses princípios.
 
-O "Zuyd Connections" foi desenvolvido para atender a uma demanda real da **Zuyd University of Applied Sciences**. Este projeto é uma plataforma de apoio para os jogadores do Business Game fornecido pelo CESIM. Ele visa facilitar a compreensão das necessidades e diferenças culturais e pessoais entre os membros do jogo, permitindo ações mais coesas durante os dois meses de duração do jogo.
+O "Zuyd Connections" foi desenvolvido para atender a uma demanda real da [**Zuyd University of Applied Sciences**](https://www.zuyd.nl/). Este projeto é uma plataforma de apoio para os jogadores do Business Game fornecido pelo CESIM. Ele visa facilitar a compreensão das necessidades e diferenças culturais e pessoais entre os membros do jogo, permitindo ações mais coesas durante os dois meses de duração do jogo.
 
 A plataforma possui uma aba de tarefas para organização dos membros, uma aba de comunicações, relatórios semanais e perfis dos membros dos grupos. Além disso, criamos um sistema de autoavaliação e avaliação dos membros do grupo para ajudar na autopercepção de cada membro, bem como entender como ele é visto pelos outros no grupo.
 
 Estamos muito satisfeitos com os resultados alcançados com este projeto e estamos ansiosos para compartilhá-lo com você. Convidamos você a conhecer o "Zuyd Connections" e descobrir o que somos capazes de realizar quando colocamos nosso conhecimento e habilidades em prática.
-
 
 # O que é um README?
 
@@ -36,7 +35,6 @@ Você pode encontrar versões deste README em diferentes idiomas nos seguintes a
 - README.es.md (Espanhol)
 
 Escolha o idioma de sua preferência para ler o README e aproveite!
-
 
 # Sumário
 
@@ -153,13 +151,13 @@ Agradecemos a oportunidade de trabalhar juntos como equipe e estamos orgulhosos 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/andre-dleizer-cintra-do-prado-7203702b4/"><img style="border-radius: 50%;" src="assetsREADME/André_Prado.JPG" width="200px;" alt="Foto de André Prado"/><br>André Prado</a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/andre-lobo-dev/"><img style="border-radius: 50%;" src="assetsREADME/André_Eduardo_Lobo_de_Paula.jpg" width="200px;" alt="Foto de André Lobo"/><br>André Lobo</a></td>
-       <td align="center"><a href="https://www.linkedin.com/in/gabriel-nascimento-563382243"><img style="border-radius: 50%;" src="assetsREADME/Gabriel_Santos_Nascimento.jpg" width="200px;" alt="Foto de Gabriel Nascimento"/><br>Gabriel Nascimento</a></td>
-     <td align="center"><a href="https://www.linkedin.com/in/laura-rodrigues-277927217/"><img style="border-radius: 50%;" src="assetsREADME/Laura_de_Araujo_Rodrigues.jpg" width="200px;" alt="Foto de Laura Rodrigues"/><br>Laura Rodrigues</a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/lucca-henrique-pereira-119254258/"><img style="border-radius: 50%;" src="assetsREADME/Lucca_Henrique_Pereira.jpg" width="200px;" alt="Foto de Lucca Pereira"/><br>Lucca Pereira</a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/milena-castro-39a2152b3/"><img style="border-radius: 50%;" src="assetsREADME/Milena_Aparecida_Vieira_Castro.jpg" width="200px;" alt="Foto de Milena Castro"/><br>Milena Castro</a></td>
-      <td align="center"><a href="http://www.linkedin.com/in/ryan-gartlan-82331b2b3"><img style="border-radius: 50%;" src="assetsREADME/Ryan_Botelho_Gartlan.jpg" width="200px;" alt="Foto de Ryan Gartlan"/><br>Ryan Gartlan</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/david-deodato-41b9b72b7/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/David_Deodato_Alvarenga_Nascimento.jpg" width="200px;" height="200px;" alt="Foto de David Deodato"/><br>David Deodato</a></td>
+      <td align="center"><a href="#"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/André_Eduardo_Lobo.jpg" width="200px;" height="200px;" alt="Foto de André Lobo"/><br>André Lobo</a></td>
+       <td align="center"><a href="https://www.linkedin.com/in/igor-sguissardi/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/Igor_Paço_Sguissardi_de_Oliveira.jpg" width="200px;" height="200px;" alt="Foto de Igor Paço"/><br>Igor Paço</a></td>
+     <td align="center"><a href="https://www.linkedin.com/in/jo%C3%A3o-victor-wandermurem-de-oliveira/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/João_victor_Wandermurem_de_Oliveira.jpg" width="200px;" height="200px;" alt="Foto de João Victor"/><br>João Victor</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/pedro-haouli/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/Pedro_El_Haouli_Faria.jpg" width="200px;" height="200px;" alt="Foto de Pedro Haouli"/><br>Pedro Haouli</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/ricardo-de-toledo-planas-365b932ba/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/Ricardo_de_Toledo_Planas.jpg" width="200px;" height="200px;" alt="Foto de Ricardo Planas"/><br>Ricardo Planas</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/ryan-botelho-gartlan/"><img style="border-radius: 50%;" src="/documentos/assets/assets_readme/Ryan Botelho Gartlan.jpg" width="200px;" height="200px;" alt="Foto de Ryan Gartlan"/><br>Ryan Gartlan</a></td>
     </tr>
   </table>
 </div>
