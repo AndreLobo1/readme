@@ -416,6 +416,44 @@ Agora você pode continuar o desenvolvimento, alterando ou adicionando funcional
 
 Com estas etapas concluídas, você terá um ambiente de desenvolvimento totalmente configurado e pronto para contribuir com o projeto. Lembre-se de seguir as diretrizes da licença ao fazer alterações e aproveite para explorar as possibilidades que o Sails.js oferece para desenvolvimento web moderno e eficiente.
 
+# 🗃 Histórico de Lançamentos
+
+Em conformidade com a metodologia ágil Scrum, nosso projeto é desenvolvido em ciclos iterativos e incrementais conhecidos como sprints. Cada sprint é uma etapa onde um conjunto de funcionalidades é planejado, desenvolvido, testado e lançado, permitindo entregas frequentes e melhorias contínuas. Este histórico de lançamentos reflete o progresso e as adaptações feitas em resposta ao feedback dos stakeholders e às mudanças no escopo do projeto.
+
+## Sprint 1
+### Adições
+- (escreva aqui)
+### Atualizações
+- (escreva aqui)
+
+## Sprint 2
+### Adições
+- (escreva aqui)
+### Atualizações
+- (escreva aqui)
+
+## Sprint 3
+### Adições
+- (escreva aqui)
+### Atualizações
+- (escreva aqui)
+
+## Sprint 4
+### Adições
+- (escreva aqui)
+### Atualizações
+- (escreva aqui)
+
+## Sprint 5
+### Adições
+- (escreva aqui)
+### Atualizações
+- (escreva aqui)
+
+A adoção da metodologia Scrum nos permitiu manter um ritmo de desenvolvimento sustentável e responder prontamente às necessidades do projeto. O histórico de lançamentos ilustra como cada sprint contribuiu para a evolução do produto, com foco na entrega de valor e na satisfação do cliente. Continuaremos a seguir os princípios ágeis para promover a excelência e inovação em nosso trabalho.
+
+
+
 
 
 
