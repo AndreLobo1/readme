@@ -417,46 +417,36 @@ Com estas etapas concluídas, você terá um ambiente de desenvolvimento totalme
 
 Em conformidade com a metodologia ágil Scrum, nosso projeto é desenvolvido em ciclos iterativos e incrementais conhecidos como sprints. Cada sprint é uma etapa onde um conjunto de funcionalidades é planejado, desenvolvido, testado e lançado, permitindo entregas frequentes e melhorias contínuas. Este histórico de lançamentos reflete o progresso e as adaptações feitas em resposta ao feedback dos stakeholders e às mudanças no escopo do projeto.
 
-## Sprint 1
-### Adições
-- (escreva aqui)
-### Atualizações
-- (escreva aqui)
+As datas estão no formato ISO 8601 (AAAA-MM-DD), que é um padrão internacionalmente reconhecido e comumente usado em documentação técnica. Este formato foi escolhido por sua clareza e uso amplo em ambientes técnicos e internacionais.
 
-## Sprint 2
+## Sprint 1 - 2024-04-26
 ### Adições
-- (escreva aqui)
-### Atualizações
-- (escreva aqui)
+- Completamos as seções 1 e 2.1 do WAD
 
-## Sprint 3
+## Sprint 2 - 2024-05-10
 ### Adições
-- (escreva aqui)
-### Atualizações
-- (escreva aqui)
+- Preenchemos as seções 3.3, 3.4, e 3.5.1
+- Atualizamos o quadro Kanban com tasks relacionadas a User Stories, com ações que refletem o desenvolvimento realizado do projeto
 
-## Sprint 4
+## Sprint 3 - 2024-05-24
 ### Adições
-- (escreva aqui)
+- Desenvolvemos a 1ª Versão do Sistema Web, preenchemos a seção 3.5.2, 3.6 e 4.1 
 ### Atualizações
-- (escreva aqui)
+- Atualizamos as seções 3.1, 3.3., 3.4 e 3.5 do WAD
+- Atualizamos o quadro Kanban com tasks relacionadas a User Stories, com ações que refletem o desenvolvimento realizado do projeto
 
-## Sprint 5
+## Sprint 4 - 2024-06-07
 ### Adições
-- (escreva aqui)
+- Desenvolvemos a 2ª Versão do Sistema Web e preenchemos a seção 4.2
 ### Atualizações
-- (escreva aqui)
+- Atualizamos o quadro Kanban com tasks relacionadas a User Stories, com ações que refletem o desenvolvimento realizado do projeto
+
+## Sprint 5 - 2024-06-21
+### Adições
+- Desenvolvemos a Versão final do Sistema Web e preenchemos a seção 4.3, preenchemos a seção 5.2, 6 e 7
+### Atualizações
+- Atualizamos e revisamos o WAD de maneira geral 
 
 A adoção da metodologia Scrum nos permitiu manter um ritmo de desenvolvimento sustentável e responder prontamente às necessidades do projeto. O histórico de lançamentos ilustra como cada sprint contribuiu para a evolução do produto, com foco na entrega de valor e na satisfação do cliente. Continuaremos a seguir os princípios ágeis para promover a excelência e inovação em nosso trabalho.
 
-
-
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Zuyd Connections </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Inteli, André Lobo, David Deodato, Ryan Gartlan, Igor Sguissardi, João Wandermurem, Ricardo Planas, Pedro El Haouli</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
-
-
-
-
-
-
-
-
