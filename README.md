@@ -1,15 +1,15 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Inteli-College/2024-T0012-IN01-G03?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Inteli-College/2024-1B-T12-IN02-G01?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Inteli-College/2024-T0012-IN01-G03">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Inteli-College/2024-1B-T12-IN02-G01">
   
   <a href="https://github.com/Inteli-College/2024-T0012-IN01-G03/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Inteli-College/2024-T0012-IN01-G03">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Inteli-College/2024-1B-T12-IN02-G01">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-CC--BY--4.0-blue">
-   <a href="https://github.com/Inteli-College/2024-T0012-IN01-G03/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Inteli-College/2024-T0012-IN01-G03?style=social">
+   <a href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Inteli-College/2024-1B-T12-IN02-G01?style=social">
   </a>
 </p>
 
