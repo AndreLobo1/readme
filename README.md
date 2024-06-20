@@ -439,7 +439,7 @@ A adoção da metodologia Scrum nos permitiu manter um ritmo de desenvolvimento 
 
 Uma licença é um conjunto de termos e condições que regem o uso e a distribuição de um trabalho criativo. Ela define os direitos e as permissões concedidos aos usuários em relação ao material protegido por direitos autorais. Licenças são essenciais para promover a colaboração, a reutilização e a disseminação de obras intelectuais, ao mesmo tempo em que protegem os direitos dos criadores.
 
-O projeto **Zuyd Connections** está licenciado sob a **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Isso significa que você tem os seguintes direitos:
+O projeto **Zuyd Connections** está licenciado sob a [**Creative Commons Attribution 4.0 International (CC BY 4.0)**](https://creativecommons.org/licenses/by/4.0/). Isso significa que você tem os seguintes direitos:
 
 1. **Compartilhar**: Você pode copiar e redistribuir o material em qualquer formato ou suporte, inclusive para fins comerciais.
 2. **Adaptar**: Você pode remixar, transformar e criar a partir do material, também para fins comerciais.
