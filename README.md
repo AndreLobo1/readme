@@ -452,3 +452,8 @@ Lembre-se de que esta é apenas uma descrição resumida da licença. Para obter
 Em resumo, a licença CC BY 4.0 permite que você use, compartilhe e adapte o projeto Zuyd Connections, desde que dê o devido crédito aos criadores e siga os termos da licença. É uma maneira de promover a colaboração e a disseminação do conhecimento, enquanto respeita os direitos dos autores.
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Zuyd Connections </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Inteli, André Lobo, David Deodato, Ryan Gartlan, Igor Sguissardi, João Wandermurem, Ricardo Planas, Pedro El Haouli</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
+--- 
+<p align="center">
+⌨️ com 💜 por Phoenix Learning Solutions (P.L.S) 👋
+</p>
