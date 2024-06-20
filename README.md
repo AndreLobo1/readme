@@ -10,8 +10,6 @@ No Inteli, somos preparados para sermos líderes efetivos no mundo tecnológico.
 
 O "Zuyd Connections" foi desenvolvido para atender a uma demanda real da [**Zuyd University of Applied Sciences**](https://www.zuyd.nl/). Este projeto é uma plataforma de apoio para os jogadores do Business Game fornecido pelo [CESIM](https://www.cesim.com/). Ele visa facilitar a compreensão das necessidades e diferenças culturais e pessoais entre os membros do jogo, permitindo ações mais coesas durante o tempo de duração do jogo.
 
-A plataforma possui uma aba de tarefas para organização dos membros, uma aba de comunicações, relatórios semanais e perfis dos membros dos grupos. Além disso, criamos um sistema de autoavaliação e avaliação dos membros do grupo para ajudar na autopercepção de cada membro, bem como entender como ele é visto pelos outros no grupo.
-
 Estamos muito satisfeitos com os resultados alcançados com este projeto e estamos ansiosos para compartilhá-lo com você. Convidamos você a conhecer o "Zuyd Connections" e descobrir o que somos capazes de realizar quando colocamos nosso conhecimento e habilidades em prática.
 
 # O que é um README?
