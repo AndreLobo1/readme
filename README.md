@@ -26,17 +26,7 @@ Este README foi elaborado para oferecer um panorama completo do projeto "Zuyd Co
 
 Nossa intenção é que este README seja um recurso valioso para compreender a amplitude e a profundidade do nosso projeto, bem como as maneiras de interagir com ele.
 
-# 👅 Versões do README em Diferentes Idiomas
-
-Você pode encontrar versões deste README em diferentes idiomas nos seguintes arquivos:
-
-- README.md (Português)
-- README.en.md (Inglês)
-- README.es.md (Espanhol)
-
-Escolha o idioma de sua preferência para ler o README e aproveite!
-
-# Sumário
+# Conteúdo
 
 Esta seção é um guia abrangente para o projeto "Zuyd Connections". Clicando em uma seção específica listada abaixo, você será redirecionado diretamente para ela, tornando a navegação e a busca por informações específicas mais eficientes.
 
@@ -47,34 +37,32 @@ Abaixo estão as seções que você pode acessar diretamente, experimente!
 ## Sumário
 
 1. [O que é um README?](#o-que-é-um-readme)
-   -  [Propósito deste README](#propósito-deste-readme)
+   -  [Objetivo deste README](#objetivo-deste-readme)
 
-2. [👅 Versões do README em Outros Idiomas](-versões-do-readme-em-outros-idiomas)
+2. [Conteúdo](#conteúdo)
+   - [Sumário](#sumário)
 
-3. [Conteúdo](#conteúdo)
-   - [Índice](#índice)
-
-4. [Apresentação](#apresentação)
+3. [Apresentação](#apresentação)
    - [🔍 O problema](#-o-problema)
    - [🎯 O objetivo](#-o-objetivo)
    - [🧩 O público-alvo](#-o-público-alvo)
 
-5. [GreenTech](#greentech)
+4. [Phoenix Learning Solutions (P.L.S)](##phoenix-learning-solutions-pls)
    -  [👨‍🎓 Integrantes](#-integrantes)
    -  [👩‍🏫 Docentes](#-docentes)
       -  [Coordenador do Curso](#coordenador-do-curso)
       -  [Professora Orientadora](#professora-orientadora) 
       -  [Professores Instrutores](#professores-instrutores)
 
-6. [📜 Descrição](#-descrição)
-   - [🔍 Objetivo do Jogo](#-objetivo-do-jogo)
-   - [🌟 Aventura e Emoção](#-aventura-e-emoção)
-   - [🌱 Compromisso com a Sustentabilidade](#-compromisso-com-a-sustentabilidade)
-   - [👩‍💼 Jogo Corporativo](#-jogo-corporativo) 
-   - [✊ Preocupação com Questões Sociais, Raciais e de Gênero](#-preocupação-com-questões-sociais-raciais-e-de-gênero) 
-   - [🎮 Jogue agora](#-jogue-agora) 
+5. [📜 Descrição](#-descrição)
+   - [🔍 Objetivo da Plataforma:](#-objetivo-da-plataforma)
+   - [🌟 Colaboração e Compreensão:](#-colaboração-e-compreensão)
+   - [🌱 Compromisso com a Inclusão:](#-compromisso-com-a-inclusão)
+   - [👩‍💼 Plataforma de Apoio:](#-plataforma-de-apoio) 
+   - [🌐 Promovendo a Diversidade Cultural:](#-promovendo-a-diversidade-cultural) 
+   - [🎮 Use agora:](#-use-agora) 
 
-7. [🛠️ Técnicas e Tecnologias Utilizadas](#%EF%B8%8F-técnicas-e-tecnologias-utilizadas)
+6. [🛠️ Técnicas e Tecnologias Utilizadas](#%EF%B8%8F-técnicas-e-tecnologias-utilizadas)
    - [Tecnologias de Inteligência Artificial](#inteligencia_artificial)
    - [Frameworks](#frameworks)
    - [Editores de Texto](#editores_texto)
@@ -88,27 +76,25 @@ Abaixo estão as seções que você pode acessar diretamente, experimente!
    - [Técnicas de Programação](#tecnicas_programacao)
    - [Outras Tecnologias e Técnicas](#outras_tecnologias_tecnicas)
 
-8. [📁 Estrutura de pastas](#-estrutura-de-pastas)
+7. [📁 Estrutura de pastas](#-estrutura-de-pastas)
    - [assets](#assets)
    - [document](#document)
    - [src](#src)
    - [README.md](#readme.md)
-
-9. [🔧 Como executar o código](#-como-executar-o-código)
-   - [Pré-requisitos](#pré-requisitos)
-   - [Jogar diretamente do navegador](#jogar-diretamente-do-navegador)
-   - [Baixar e executar localmente](#baixar-e-executar-localmente)
   
-10. [💻 Configuração para Desenvolvimento](#-configuração-para-desenvolvimento)
+8. [💻 Configuração para Desenvolvimento e Execução](#-configuração-para-desenvolvimento)
+    - [Pré-requisitos](#pré-requisitos)
+    - [Instalação Básica](#instalação-básica) 
+    - [Execução](#execução)
 
-11. [🗃 Histórico de lançamentos](#-histórico-de-lançamentos)
-   - [Sprint 5 - 2024-04-11](#sprint-5---2024-04-11)
-   - [Sprint 4 - 2024-03-29](#sprint-4---2024-03-29)
-   - [Sprint 3 - 2024-03-15](#sprint-3---2024-03-15)
-   - [Sprint 2 - 2024-03-01](#sprint-2---2024-03-01)
-   - [Sprint 1 - 2024-02-16](#sprint-1---2024-02-16)
+9. [🗃 Histórico de lançamentos](#-histórico-de-lançamentos)
+   - [Sprint 1 - 2024-04-26](#sprint-1---2024-04-26)
+   - [Sprint 2 - 2024-05-10](#sprint-2---2024-05-10)
+   - [Sprint 3 - 2024-05-24](#sprint-3---2024-05-24)
+   - [Sprint 4 - 2024-06-07](#sprint-4---2024-06-07)
+   - [Sprint 5 - 2024-06-21](#sprint-5---2024-06-21)
 
-12. [📋 Licença](#-licença)
+10. [📋 Licença](#-licença)
 
 # Apresentação 
 
@@ -448,5 +434,23 @@ As datas estão no formato ISO 8601 (AAAA-MM-DD), que é um padrão internaciona
 - Atualizamos e revisamos o WAD de maneira geral 
 
 A adoção da metodologia Scrum nos permitiu manter um ritmo de desenvolvimento sustentável e responder prontamente às necessidades do projeto. O histórico de lançamentos ilustra como cada sprint contribuiu para a evolução do produto, com foco na entrega de valor e na satisfação do cliente. Continuaremos a seguir os princípios ágeis para promover a excelência e inovação em nosso trabalho.
+
+# 📋 Licença
+
+Uma licença é um conjunto de termos e condições que regem o uso e a distribuição de um trabalho criativo. Ela define os direitos e as permissões concedidos aos usuários em relação ao material protegido por direitos autorais. Licenças são essenciais para promover a colaboração, a reutilização e a disseminação de obras intelectuais, ao mesmo tempo em que protegem os direitos dos criadores.
+
+O projeto **Zuyd Connections** está licenciado sob a **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Isso significa que você tem os seguintes direitos:
+
+1. **Compartilhar**: Você pode copiar e redistribuir o material em qualquer formato ou suporte, inclusive para fins comerciais.
+2. **Adaptar**: Você pode remixar, transformar e criar a partir do material, também para fins comerciais.
+3. **Atribuição**: Você deve dar o crédito apropriado ao autor, fornecer um link para a licença e indicar se foram feitas alterações. Isso deve ser feito de maneira razoável, sem sugerir que o licenciante apoia você ou o seu uso.
+
+No entanto, existem algumas restrições:
+
+- **Compartilhamento pela Mesma Licença**: Se você remixar, transformar ou criar a partir do material, deve distribuir suas contribuições sob a mesma licença CC BY 4.0.
+
+Lembre-se de que esta é apenas uma descrição resumida da licença. Para obter todos os detalhes e termos legais, consulte o texto legal completo da licença.
+
+Em resumo, a licença CC BY 4.0 permite que você use, compartilhe e adapte o projeto Zuyd Connections, desde que dê o devido crédito aos criadores e siga os termos da licença. É uma maneira de promover a colaboração e a disseminação do conhecimento, enquanto respeita os direitos dos autores.
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Zuyd Connections </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">Inteli, André Lobo, David Deodato, Ryan Gartlan, Igor Sguissardi, João Wandermurem, Ricardo Planas, Pedro El Haouli</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
