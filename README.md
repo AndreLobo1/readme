@@ -26,7 +26,7 @@ Nossa intenção é que este README seja um recurso valioso para compreender a a
 
 # Conteúdo
 
-Esta seção é um guia abrangente para o projeto "Zuyd Connections". Clicando em uma seção específica listada abaixo, você será redirecionado diretamente para ela, tornando a navegação e a busca por informações específicas mais eficientes.
+Esta seção é um guia para o projeto "Zuyd Connections". Clicando em uma seção específica listada abaixo, você será redirecionado diretamente para ela, tornando a navegação e a busca por informações específicas mais eficientes.
 
 Se você está curioso para descobrir os detalhes do projeto, sua proposta inovadora e como interagir com a plataforma, este sumário é o seu ponto de partida ideal. Aqui, compilamos todas as informações vitais para que você possa compreender plenamente a experiência proporcionada pelo "Zuyd Connections".
 
