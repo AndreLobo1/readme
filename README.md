@@ -204,9 +204,9 @@ No Inteli, os dois diferentes papéis que os professores assumem são um ponto-c
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/ccalminana/"><img style="border-radius: 50%;" src="assetsREADME/Cesar-Carvini-Alminana.png" width="200px;" alt=""/><br>Cesar Almiñana</a><br>Negócios</td>
-      <td align="center"><a href="https://www.linkedin.com/in/cristiano-benites-687647a8/"><img style="border-radius: 50%;" src="assetsREADME/Cristiano-da-Silva-Benites.png" width="200px;" alt=""/><br>Cristiano Benites</a><br>Programação</td>
-      <td align="center"><a href="https://www.linkedin.com/in/fillipe-resina-b2211a22/"><img style="border-radius: 50%;" src="assetsREADME/0000_FILLIPE-RESINA.png" width="200px;" alt=""/><br>Kizzy Terra</a><br>Programação</td>
+      <td align="center"><a href="https://www.linkedin.com/in/egondaxbacher/"><img style="border-radius: 50%;" src="assetsREADME/Cesar-Carvini-Alminana.png" width="200px;" alt=""/><br>Egon Daxbacher </a><br>Negócios</td>
+      <td align="center"><a href="https://www.linkedin.com/in/geraldo-magela-severino-vasconcelos-22b1b220/?originalSubdomain=br"><img style="border-radius: 50%;" src="assetsREADME/Cristiano-da-Silva-Benites.png" width="200px;" alt=""/><br>Geraldo Vasconselos</a><br>Matemática e física</td>
+      <td align="center"><a href="https://www.linkedin.com/in/kizzyterra/"><img style="border-radius: 50%;" src="assetsREADME/0000_FILLIPE-RESINA.png" width="200px;" alt=""/><br>Kizzy Terra</a><br>Programação</td>
     </tr>
   </table>
 </div>
@@ -216,7 +216,7 @@ No Inteli, os dois diferentes papéis que os professores assumem são um ponto-c
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/francisco-escobar/"><img style="border-radius: 50%;" src="assetsREADME/0023_FRANCISCO-ESCOBAR.png" width="200px;" alt=""/><br>Bruna Mayer Costa</a><br>Design e UX</td>
+      <td align="center"><a href="https://www.linkedin.com/in/bruna-mayer-00a556174/"><img style="border-radius: 50%;" src="assetsREADME/0023_FRANCISCO-ESCOBAR.png" width="200px;" alt=""/><br>Bruna Mayer Costa</a><br>Design e UX</td>
       <td align="center"><a href="https://www.linkedin.com/in/henrique-mohallem-paiva-6854b460/"><img style="border-radius: 50%;" src="assetsREADME/Fernando-pizzo-ribeiro-copy-2.png" width="200px;" alt=""/><br>Henrique Mohallem Paiva</a><br>Matemática e física</td>
       <td align="center"><a href="https://www.linkedin.com/in/michele-bazana-de-souza-69b77763/"><img style="border-radius: 50%;" src="assetsREADME/filipe-goncalves.png" width="200px;" alt=""/><br>Michele Bazana</a><br>Liderança</td>
     </tr>
