@@ -8,7 +8,7 @@ Como estudantes do [**Inteli - Instituto de Tecnologia e Liderança**](https://w
 
 No Inteli, somos preparados para sermos líderes efetivos no mundo tecnológico. Aprendemos a importância do trabalho em equipe, desenvolvemos nosso pensamento crítico e somos instigados a encontrar soluções para problemas complexos. O projeto "Zuyd Connections" é uma representação viva desses princípios.
 
-O "Zuyd Connections" foi desenvolvido para atender a uma demanda real da [**Zuyd University of Applied Sciences**](https://www.zuyd.nl/). Este projeto é uma plataforma de apoio para os jogadores do Business Game fornecido pelo [CESIM](https://www.cesim.com/). Ele visa facilitar a compreensão das necessidades e diferenças culturais e pessoais entre os membros do jogo, permitindo ações mais coesas durante os dois meses de duração do jogo.
+O "Zuyd Connections" foi desenvolvido para atender a uma demanda real da [**Zuyd University of Applied Sciences**](https://www.zuyd.nl/). Este projeto é uma plataforma de apoio para os jogadores do Business Game fornecido pelo [CESIM](https://www.cesim.com/). Ele visa facilitar a compreensão das necessidades e diferenças culturais e pessoais entre os membros do jogo, permitindo ações mais coesas durante o tempo de duração do jogo.
 
 A plataforma possui uma aba de tarefas para organização dos membros, uma aba de comunicações, relatórios semanais e perfis dos membros dos grupos. Além disso, criamos um sistema de autoavaliação e avaliação dos membros do grupo para ajudar na autopercepção de cada membro, bem como entender como ele é visto pelos outros no grupo.
 
