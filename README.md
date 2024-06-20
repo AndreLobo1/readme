@@ -75,10 +75,13 @@ Abaixo estão as seções que você pode acessar diretamente, experimente!
    - [Outras Tecnologias e Técnicas](#outras_tecnologias_tecnicas)
 
 7. [📁 Estrutura de pastas](#-estrutura-de-pastas)
+   - [api](#api)
    - [assets](#assets)
-   - [document](#document)
-   - [src](#src)
-   - [README.md](#readme.md)
+   - [config](#config)
+   - [documentos](#documentos)
+   - [tasks](#tasks)
+   - [test](#test)
+   - [views](#views)
   
 8. [💻 Configuração para Desenvolvimento e Execução](#-configuração-para-desenvolvimento)
     - [Pré-requisitos](#pré-requisitos)
