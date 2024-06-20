@@ -106,19 +106,16 @@ Abaixo estão as seções que você pode acessar diretamente, experimente!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D1000FF&height=120&section=footer">
 
 Bem-vindo ao Zuyd Connections, uma iniciativa concebida em resposta a uma necessidade real da Zuyd University, que contou com a participação de alunos talentosos da turma 2024.1 do Inteli - Instituto de Tecnologia e Liderança. Este projeto foi desenvolvido com o intuito de auxiliar os jogadores do CESIM Business Game, proporcionando-lhes uma plataforma de apoio para melhorar a colaboração e a compreensão das diferenças culturais e pessoais entre os membros do jogo.
-<br>
+
 ### **🔍 O problema:** 
 A colaboração efetiva entre os jogadores do CESIM Business Game pode ser desafiadora, especialmente devido às diferenças culturais e pessoais entre os membros do jogo.
-<br>
-<br>
+
 ### **🎯 O objetivo:** 
 Oferecer aos jogadores uma oportunidade única de melhorar a colaboração e a compreensão das diferenças culturais e pessoais entre os membros do jogo, através de uma plataforma de apoio com várias funcionalidades.
-<br>
-<br>
+
 ### **🧩 O público-alvo:**   
 Jogadores do CESIM Business Game, bem como qualquer pessoa interessada em melhorar a colaboração e a compreensão das diferenças culturais e pessoais em um ambiente de equipe.
-<br>
-<br>
+
 O objetivo principal do Zuyd Connections é oferecer aos jogadores uma oportunidade única de melhorar a colaboração e a compreensão das diferenças culturais e pessoais entre os membros do jogo, através de uma plataforma de apoio com várias funcionalidades. Além disso, a plataforma busca familiarizar os jogadores com os valores e compromissos fundamentais da Zuyd University, como colaboração, inclusão e inovação.
 
 Desenvolvido como parte integrante do currículo do Inteli, este projeto é mais do que apenas uma plataforma. É uma prova do potencial dos alunos em aplicar suas habilidades em um contexto real e enfrentar desafios complexos. Ao mesmo tempo, serve como uma ferramenta valiosa para preparar os futuros jogadores do CESIM Business Game, proporcionando-lhes uma visão autêntica da cultura e dos valores da Zuyd University.
